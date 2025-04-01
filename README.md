@@ -1,7 +1,7 @@
 # ⚡ Augmented Reality Circuit Simulator with AI Integration 🎮🔬
 
 🚀 **Project Overview**
-Welcome to the **Augmented Reality Electronic Circuit Simulator**! This innovative application allows users to visualize and simulate electronic circuits in real-world environments using **Unity** and **ARCore**. 🛠️ It integrates an **AI model for hardware detection** to enhance the user experience. 🤖
+Welcome to the **Augmented Reality Electronic Circuit Simulator**! This innovative application allows users to visualize and simulate electronic circuits in real-world environments using **Unity** and **ARCore**. 🛠️ It integrates an **AI model for hardware detection** using **YOLO (You Only Look Once)** to enhance the user experience. 🤖
 
 ---
 
@@ -17,11 +17,18 @@ Welcome to the **Augmented Reality Electronic Circuit Simulator**! This innovati
 ## 🛠️ Tech Stack
 - **Unity** 🎮 - Game engine for AR development
 - **ARCore** 📱 - Google's AR platform
-- **YOLO** 🤖 - AI model for object detection
+- **YOLO (You Only Look Once)** 🤖 - AI model for object detection
 - **C#** 💻 - Programming language for Unity scripts
 - **Python** 🐍 - AI model integration
 
 ---
+
+## 🎥 Demo Video
+<video width="100%" controls>
+  <source src="videos/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## 📸 Screenshots
 🖼️ *Coming Soon...*
