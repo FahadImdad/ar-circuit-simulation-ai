@@ -17,7 +17,7 @@ Welcome to the **Augmented Reality Electronic Circuit Simulator**! This innovati
 ## 🛠️ Tech Stack
 - **Unity** 🎮 - Game engine for AR development
 - **ARCore** 📱 - Google's AR platform
-- **YOLO (You Only Look Once)** 🤖 - AI model for object detection
+- **YOLO** 🤖 - AI model for object detection
 - **C#** 💻 - Programming language for Unity scripts
 - **Python** 🐍 - AI model integration
 
